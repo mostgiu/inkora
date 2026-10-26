@@ -8,7 +8,7 @@ export default function Home() {
       <div className={styles.item}>
         <h1 className={styles.title}>Better Design For Your digital products</h1>
         <p className={styles.description}>
-          Discover the world of Lamamia, where innovation meets creativity. Explore our portfolio, 
+          Discover the world of Inkora, where innovation meets creativity. Explore our portfolio, 
         </p>
         <div className={styles.buttonContainer}>
           

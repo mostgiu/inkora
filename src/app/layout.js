@@ -13,7 +13,7 @@ const roboto = Roboto({
 
 
 export const metadata = {
-  title: "Lama",
+  title: "Inkora",
   description: "This is the description",
 };
 

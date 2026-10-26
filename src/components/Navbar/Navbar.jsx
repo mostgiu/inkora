@@ -27,7 +27,7 @@ export default function Navbar() {
   return (
    <div className={styles.container} >
      <Link href="/" className={styles.logo}>
-       Lamamia
+       Inkora
      </Link>
      <div className={styles.links}>
        <DarkModeToggle/>

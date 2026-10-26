@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div className={styles.container}>
 
-      <div>2026 lamamia. All rights reserved.</div>
+      <div>2026 Inkora. All rights reserved.</div>
       <div className={styles.social}>
 
 

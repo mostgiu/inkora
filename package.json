@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "my-app",
+  "name": "inkora",
   "version": "0.1.0",
   "private": true,
   "scripts": {

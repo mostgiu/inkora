@@ -9,7 +9,7 @@ export default function Page() {
       <div className={styles.imgContainer}>
         <Image
           src="/people.jpg"
-          alt="lamamia"
+          alt="Inkora"
           className={styles.img}
           fill={true}
         />
