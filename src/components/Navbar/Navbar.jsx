@@ -27,6 +27,7 @@ export default function Navbar() {
   return (
    <div className={styles.container} >
      <Link href="/" className={styles.logo}>
+       <img src="/logo.svg" alt="" className={styles.logoIcon} />
        Inkora
      </Link>
      <div className={styles.links}>

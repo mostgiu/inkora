@@ -5,10 +5,18 @@
  align-items: center;
 }
 .logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-weight: bold;
   font-size: 24px;
   color: #000;
   text-decoration: none;
+}
+
+.logoIcon {
+  width: 1.4em;
+  height: 1.4em;
 }
 
 [data-theme="dark"] .logo {
